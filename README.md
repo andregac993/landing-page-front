@@ -210,8 +210,6 @@ npm run format   # Formata código
 
 - ✅ Telefone normalizado em formato E.164 internacional
 - ✅ Enhanced Conversions configurado com email e telefone
-- ✅ Captura automática de UTM e Click IDs (gclid, fbclid)
-- ✅ Valor monetário associado à conversão (R$ 100)
 - ✅ Dados estruturados do lead (nome, cargo, mensagem)
 - ✅ Compatível com GA4, Meta Pixel e Google Ads
 - ✅ Page views automáticos em mudanças de rota

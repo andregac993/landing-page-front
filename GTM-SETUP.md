@@ -317,7 +317,6 @@ Você verá todos os eventos enviados para o GTM.
 - [x] Enhanced Conversion data (email e telefone)
 - [x] Dados de UTM capturados
 - [x] Telefone normalizado para E.164
-- [x] Valor monetário da conversão
 - [x] Dados adicionais do lead (nome, cargo, mensagem)
 
 ## 🚀 Deploy

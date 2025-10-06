@@ -13,7 +13,7 @@ export default function Home() {
                                 <Sparkles className="w-5 h-5 text-primary-foreground" />
                             </div>
                             <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                                Sua Marca
+                                L0gik
                             </h1>
                         </div>
                         <nav className="flex items-center gap-6">
@@ -164,7 +164,7 @@ export default function Home() {
                             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary to-secondary flex items-center justify-center">
                                 <Sparkles className="w-4 h-4 text-primary-foreground" />
                             </div>
-                            <span className="font-semibold text-foreground">Sua Marca</span>
+                            <span className="font-semibold text-foreground">L0gik</span>
                         </div>
                         <div className="text-center md:text-right text-muted-foreground text-sm">
                             <p>&copy; {new Date().getFullYear()} Sua Marca. Todos os direitos reservados.</p>
