@@ -18,7 +18,7 @@ export const trackLead = (data: {
   phone: string;
   position: string;
   message: string;
-  value?: number;
+
 }) => {
   if (typeof window !== 'undefined' && window.dataLayer) {
     window.dataLayer.push({
@@ -28,8 +28,6 @@ export const trackLead = (data: {
       lead_phone: data.phone,
       lead_position: data.position,
       lead_message: data.message,
-      value: data.value || 0,
-      currency: 'BRL',
       user_data: {
         email: data.email,
         phone_number: data.phone,

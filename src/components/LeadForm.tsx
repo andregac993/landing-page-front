@@ -64,7 +64,6 @@ export function LeadForm() {
                     phone: data.phone,
                     position: data.position,
                     message: data.message,
-                    value: 100,
                 })
 
                 toast.success("Lead enviado com sucesso! Entraremos em contato em breve.")
